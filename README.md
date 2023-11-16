@@ -4,4 +4,4 @@
 Our first hardcore project 
 
 
-Readme containing stress and painstaking codes. hahahahahhaa
+Readme bi containing stress and painstaking codes. hahahahahhaa
